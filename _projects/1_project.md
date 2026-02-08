@@ -20,13 +20,13 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-6 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/B_tseries_LPF_x=1000.0_y=1500.0.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
+#    <div class="col-sm mt-3 mt-md-0">
+#        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+#    </div>
+    <div class="col-sm mt-6 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/LIC.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
