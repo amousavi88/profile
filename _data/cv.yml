@@ -7,8 +7,8 @@ cv:
   summary: Plasma physicist with research interests in theoretical and computational modeling of space plasmas
 
   social_networks:
-    #- network: X
-    #  username: AlbertEinstein
+    - network: X
+      username: AlbertEinstein
     - network: GitHub
       username: amousavi88
     - network: LinkedIn
